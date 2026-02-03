@@ -1,74 +1,46 @@
-# 👋 Hi, I'm Sai Vamsy Palakollu
+# Hi, I'm Sai Vamsy Palakollu
 
-Senior technology leader, architect, and product builder with 15+ years of experience across AI/ML, enterprise systems, and full-stack engineering.
-
-I enjoy working across the entire lifecycle — from strategy and architecture to hands-on implementation and shipping real products.
+Senior Product Consultant & AI Systems Architect — building the future of travel and quantitative finance through autonomous agentic workflows.
 
 ---
 
-## 🚀 Featured Project — Layover AI
+## 🚀 Major Ecosystems
 
-**Founder & Builder of Layover AI** — a live AI-powered travel platform on iOS, Android, and Web.
+I centralize my large-scale engineering projects into dedicated organizations to maintain modularity and high standards.
 
-Layover AI combines:
-- 🤖 AI-powered recommendations and assistants  
-- ✈️ Real-time flight intelligence  
-- 💬 Secure social features between verified travelers  
-- 📍 Airport discovery and time-aware planning  
-- 🧠 Scalable, production-grade architecture  
+**QuantTradingOS** — A multi-agent framework for systematic trading. Features specialized agents for market regime detection, risk management (Capital Guardian), and sentiment analysis.
 
-🔗 Public architecture & system design  
-👉 https://github.com/spalakollu/Layover-AI-Public  
+**Layover AI** — A live, cross-platform travel social network integrating real-time flight intelligence and AI-driven social experiences.
 
-🌐 Website: https://www.layover.co  
-🍎 App Store: https://apps.apple.com/app/layover-ai  
-🤖 Google Play: https://play.google.com/store/apps/details?id=com.spalakollu.layover  
+- 🤖 AI-powered recommendations and assistants
+- ✈️ Real-time flight intelligence
+- 💬 Secure social features between verified travelers
+- 📍 Airport discovery and time-aware planning
+
+🔗 [Layover AI — Public architecture & system design](https://github.com/spalakollu/Layover-AI-Public)  
+🌐 [Website](https://www.layover.co) · 🍎 [App Store](https://apps.apple.com/app/layover-ai) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.spalakollu.layover)
 
 > Core source code is private. The public repo documents the system architecture, technical decisions, and product design behind a real-world shipped platform.
 
 ---
 
-## 🧠 Background & Focus
+## 🛠 Core Tech Stack & Specializations
 
-- 15+ years in technology, consulting, and architecture  
-- AI/ML, cloud transformation, and enterprise-scale systems  
-- Product and platform design across business and technical domains  
-- End-to-end ownership: architecture, implementation, delivery  
-- Strong interest in modern AI systems, LLM applications, and scalable platforms  
-
-I care deeply about:
-- Thoughtful system design  
-- Practical engineering tradeoffs  
-- Building software that delivers real value  
-- Clear documentation and communication  
+**AI/LLMs** — Multi-agent systems (LangGraph, Pydantic AI, MCP), RAG, agentic workflows  
+**Backend** — Python, C# (.NET Core), PostgreSQL (TimescaleDB), FastAPI  
+**Mobile & Web** — React Native, Streamlit, full-stack system design  
 
 ---
 
-## 🛠 Technical Areas
+## 📈 Current Focus
 
-**Frontend & Product Engineering**  
-React, TypeScript, Tailwind, Vite  
-
-**Mobile**  
-iOS & Android via Capacitor  
-
-**Backend & Data**  
-Node.js, Serverless (Vercel), PostgreSQL, Firebase, Redis  
-
-**AI / ML**  
-LLMs (OpenAI, Groq), ML pipelines, contextual AI systems, semantic search  
-
-**Infrastructure & Architecture**  
-Cloud-native design, CI/CD, observability, scalable system architecture  
+I am exploring the Model Context Protocol (MCP) to unify legacy C# trading systems with modern Python-based AI agents, creating a polyglot agentic mesh.
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sai-vamsy-palakollu/  
-- 🌐 Product: https://www.layover.co  
-- 🧑‍💻 GitHub: https://github.com/spalakollu  
-
----
-
-> I enjoy building systems, leading architecture, and shipping thoughtful products that solve real problems.
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-vamsy-palakollu/)
+- 🌐 [Portfolio](https://www.layover.co)
+- 🧑‍💻 [GitHub](https://github.com/spalakollu)
+- ✉️ spalakollu@gmail.com

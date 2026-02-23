@@ -74,4 +74,3 @@ Designing **agent-safe, observable, and testable MCP-based systems** that integr
 - 💼 [LinkedIn](https://www.linkedin.com/in/sai-vamsy-palakollu/)
 - 🌐 [Portfolio](https://www.layover.co)
 - 🧑‍💻 [GitHub](https://github.com/spalakollu)
-- ✉️ spalakollu@gmail.com

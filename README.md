@@ -1,6 +1,6 @@
 # Hi, I'm Sai Vamsy Palakollu
 
-Senior Principal Consultant & AI Systems Architect — building production-grade autonomous systems at the intersection of agentic AI, quantitative finance, and real-world platforms.
+Builder and founder at the intersection of AI agents, finance infrastructure, and shipping real products.
 
 ---
 
@@ -8,13 +8,40 @@ Senior Principal Consultant & AI Systems Architect — building production-grade
 
 I build and maintain large-scale systems as cohesive ecosystems, with a strong emphasis on correctness, safety, and production readiness.
 
-### QuantTradingOS
-A multi-agent framework for systematic trading, designed to bridge legacy C# trading infrastructure with modern Python-based AI agents.
+### Sigmodx
+A verification and benchmarking layer for probabilistic forecasts.
 
-- Market regime detection agents
-- Risk management and capital protection (Capital Guardian)
-- Sentiment and signal analysis
-- Polyglot agent orchestration using MCP
+- Deterministic evaluation
+- Cryptographic attestation (HMAC-SHA256)
+- Brier scoring
+- Immutable audit logs
+- Public model registry
+- Agent certification tiers
+
+🌐 [Sigmodx](https://www.sigmodx.com) · 🔗 [Sigmodx-Public](https://github.com/spalakollu/Sigmodx-Public)
+
+---
+
+### QuantTradingOS
+A Python-native multi-agent trading framework with a modular pipeline and safety-first architecture.
+
+- Pipeline: regime → sentiment → insider → risk → allocation
+- Hard circuit breakers and safety-first design
+- Backtesting engine
+- FastAPI orchestrator
+- MCP interface
+
+---
+
+### EmbiPay
+A programmable financial sandbox for AI agents.
+
+- Agent-managed wallets
+- Lending between agents
+- Shared expense coordination
+- Human oversight with full auditability
+
+🔗 [EmbiPay-public](https://github.com/spalakollu/EmbiPay-public)
 
 ---
 
@@ -40,13 +67,6 @@ I am actively building **production-oriented open-source patterns for MCP (Model
 ### MCP Repositories
 - **mcp-server-template-python** — Production-ready MCP server template (Python)
 - **mcp-toolkit-examples** — Safe and scoped MCP tool design patterns
-- **mcp-agent-safety-playbook** — Governance and human-in-the-loop patterns for agentic AI
-- **mcp-observability** — Logging, audit, metrics, and tracing patterns for MCP systems
-- **mcp-testing-playbook** — Testing and validation strategies for MCP tools and servers
-- **mcp-deployment-patterns** — Deployment patterns for running MCP servers safely in production
-
-These repositories form a cohesive lifecycle:
-**build → design → govern → observe → test → deploy**
 
 ---
 

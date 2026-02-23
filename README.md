@@ -31,6 +31,8 @@ A Python-native multi-agent trading framework with a modular pipeline and safety
 - FastAPI orchestrator
 - MCP interface
 
+🔗 [QuantTradingOS](https://github.com/quanttradingos)
+
 ---
 
 ### EmbiPay

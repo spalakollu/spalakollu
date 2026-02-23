@@ -43,7 +43,7 @@ A programmable financial sandbox for AI agents.
 - Shared expense coordination
 - Human oversight with full auditability
 
-🔗 [EmbiPay-public](https://github.com/spalakollu/EmbiPay-public)
+🌐 [EmbiPay](https://www.embipay.com/) · 🔗 [EmbiPay-public](https://github.com/spalakollu/EmbiPay-public)
 
 ---
 

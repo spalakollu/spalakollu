@@ -18,7 +18,7 @@ Audit infrastructure for AI agents: a verifiable record of what agents did.
 - Tenant isolation with RLS
 - Python/TypeScript SDKs, MCP server, public verification
 
-🌐 [Sigmodx](https://www.sigmodx.com) · 🔗 [Sigmodx-Public](https://github.com/spalakollu/Sigmodx-Public)
+🌐 [Sigmodx](https://www.sigmodx.com) · 🔗 [Sigmodx-Public](https://github.com/spalakollu/Sigmodx-Public) · 📦 [sdk-python](https://github.com/Sigmodx/sdk-python) · [sdk-typescript](https://github.com/Sigmodx/sdk-typescript) · [mcp-server](https://github.com/Sigmodx/mcp-server) · [integrations-python](https://github.com/Sigmodx/integrations-python)
 
 ---
 
@@ -35,15 +35,26 @@ A Python-native multi-agent trading framework with a modular pipeline and safety
 
 ---
 
+### memahead
+
+Agent memory optimized for what's ahead: plan-aware, forward-looking context compression for LLM agents.
+
+- Compresses context around future plans, not just past history
+- Python, Apache 2.0, open source
+
+🔗 [memahead/memahead](https://github.com/memahead/memahead) · 🏢 [memahead org](https://github.com/memahead)
+
+---
+
 ### EmbiPay
-A programmable financial sandbox for AI agents.
+Economic control plane for AI agent fleets: enforced, delegated authority over what agents can spend.
 
-- Agent-managed wallets
-- Lending between agents
-- Shared expense coordination
-- Human oversight with full auditability
+- Agent-managed wallets with fleet budgets and capital caps
+- Scoped MCP keys and append-only audit logs
+- Human approval queues for policy-gated transactions
+- Lending between agents and shared expense coordination
 
-🌐 [EmbiPay](https://www.embipay.com/) · 🔗 [EmbiPay-public](https://github.com/spalakollu/EmbiPay-public)
+🌐 [EmbiPay](https://www.embipay.com/) · 🔗 [EmbiPay-public](https://github.com/spalakollu/EmbiPay-public) · 📦 [EmbiPay-SDK](https://github.com/EmbiPay/EmbiPay-SDK) · 🤖 [Reference Agent](https://github.com/EmbiPay/EmbiPay-Reference-Agent)
 
 ---
 
@@ -82,6 +93,10 @@ I am actively building **production-oriented open-source patterns for MCP (Model
 ### MCP Repositories
 - **mcp-server-template-python**: Production-ready MCP server template (Python)
 - **mcp-toolkit-examples**: Safe and scoped MCP tool design patterns
+- **mcp-agent-safety-playbook**: Guidelines and best practices for safely running agentic AI with MCP tools in production
+- **mcp-deployment-patterns**: Deployment patterns and operational best practices for running MCP servers safely in production
+- **mcp-observability**: Observability patterns and best practices for monitoring MCP servers and agent tool usage
+- **mcp-testing-playbook**: Testing and validation strategies for MCP servers and agent-exposed tools in production
 
 ---
 

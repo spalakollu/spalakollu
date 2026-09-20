@@ -9,7 +9,7 @@ Builder and founder at the intersection of AI agents, finance infrastructure, an
 I build and maintain large-scale systems as cohesive ecosystems, with a strong emphasis on correctness, safety, and production readiness.
 
 ### Sigmodx
-Audit infrastructure for AI agents — a verifiable record of what agents did.
+Audit infrastructure for AI agents: a verifiable record of what agents did.
 
 - Append-only audit event log
 - Reliability signals per audit scenario
@@ -55,10 +55,23 @@ A live, cross-platform travel social network integrating real-time flight intell
 - 💬 Secure social interactions between verified travelers  
 - 📍 Airport discovery and time-aware planning  
 
-🔗 [Layover AI — Public architecture & system design](https://github.com/spalakollu/Layover-AI-Public)  
+🔗 [Layover AI: Public architecture & system design](https://github.com/spalakollu/Layover-AI-Public)  
 🌐 [Website](https://www.layover.co) · 🍎 [App Store](https://apps.apple.com/app/layover-ai) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.spalakollu.layover)
 
 > Core source code is private. The public repository documents the system architecture, technical tradeoffs, and product decisions behind a shipped production platform.
+
+---
+
+### Tselora
+
+Open-source execution intelligence for AI agents, an execution shadow that records what agents actually do.
+
+- Framework-neutral, structured event protocol with causal links
+- Python SDK, FastAPI collector, JSONL event store
+- One-run viewer with execution graph, node list, and timeline
+- Apache 2.0, built in the open
+
+🔗 [Tselora/Tselora](https://github.com/Tselora/Tselora) · 🏢 [Tselora org](https://github.com/Tselora)
 
 ---
 
@@ -67,8 +80,8 @@ A live, cross-platform travel social network integrating real-time flight intell
 I am actively building **production-oriented open-source patterns for MCP (Model Context Protocol)**, focusing on safety, observability, testing, and deployment of agentic systems.
 
 ### MCP Repositories
-- **mcp-server-template-python** — Production-ready MCP server template (Python)
-- **mcp-toolkit-examples** — Safe and scoped MCP tool design patterns
+- **mcp-server-template-python**: Production-ready MCP server template (Python)
+- **mcp-toolkit-examples**: Safe and scoped MCP tool design patterns
 
 ---
 
@@ -87,7 +100,7 @@ React Native, Streamlit, full-stack system design for real-world platforms
 
 ## 📈 Current Focus
 
-Designing **agent-safe, observable, and testable MCP-based systems** that integrate legacy infrastructure with modern AI agents — with a strong emphasis on production constraints and risk management.
+Designing **agent-safe, observable, and testable MCP-based systems** that integrate legacy infrastructure with modern AI agents, with a strong emphasis on production constraints and risk management.
 
 ---
 

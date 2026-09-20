@@ -9,14 +9,14 @@ Builder and founder at the intersection of AI agents, finance infrastructure, an
 I build and maintain large-scale systems as cohesive ecosystems, with a strong emphasis on correctness, safety, and production readiness.
 
 ### Sigmodx
-A verification and benchmarking layer for probabilistic forecasts.
+Audit infrastructure for AI agents — a verifiable record of what agents did.
 
-- Deterministic evaluation
+- Append-only audit event log
+- Reliability signals per audit scenario
 - Cryptographic attestation (HMAC-SHA256)
-- Brier scoring
-- Immutable audit logs
-- Public model registry
-- Agent certification tiers
+- Human review queues
+- Tenant isolation with RLS
+- Python/TypeScript SDKs, MCP server, public verification
 
 🌐 [Sigmodx](https://www.sigmodx.com) · 🔗 [Sigmodx-Public](https://github.com/spalakollu/Sigmodx-Public)
 

@@ -91,12 +91,12 @@ Open-source execution intelligence for AI agents, an execution shadow that recor
 I am actively building **production-oriented open-source patterns for MCP (Model Context Protocol)**, focusing on safety, observability, testing, and deployment of agentic systems.
 
 ### MCP Repositories
-- **mcp-server-template-python**: Production-ready MCP server template (Python)
-- **mcp-toolkit-examples**: Safe and scoped MCP tool design patterns
-- **mcp-agent-safety-playbook**: Guidelines and best practices for safely running agentic AI with MCP tools in production
-- **mcp-deployment-patterns**: Deployment patterns and operational best practices for running MCP servers safely in production
-- **mcp-observability**: Observability patterns and best practices for monitoring MCP servers and agent tool usage
-- **mcp-testing-playbook**: Testing and validation strategies for MCP servers and agent-exposed tools in production
+- **[mcp-server-template-python](https://github.com/spalakollu/mcp-server-template-python)**: Production-ready MCP server template (Python)
+- **[mcp-toolkit-examples](https://github.com/spalakollu/mcp-toolkit-examples)**: Safe and scoped MCP tool design patterns
+- **[mcp-agent-safety-playbook](https://github.com/spalakollu/mcp-agent-safety-playbook)**: Guidelines and best practices for safely running agentic AI with MCP tools in production
+- **[mcp-deployment-patterns](https://github.com/spalakollu/mcp-deployment-patterns)**: Deployment patterns and operational best practices for running MCP servers safely in production
+- **[mcp-observability](https://github.com/spalakollu/mcp-observability)**: Observability patterns and best practices for monitoring MCP servers and agent tool usage
+- **[mcp-testing-playbook](https://github.com/spalakollu/mcp-testing-playbook)**: Testing and validation strategies for MCP servers and agent-exposed tools in production
 
 ---
 
